@@ -17,6 +17,11 @@ yarn install
 docker-compose up -d 
 ```
 
+5. Reconstruir la base de datos con la semilla
+```
+api/v2/seed
+```
+
 ## Stack
 
 * nestjs
